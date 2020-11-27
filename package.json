@@ -1,0 +1,19 @@
+{
+  "name": "pilotage_univ",
+  "version": "1.0.0",
+  "description": "Le comité de pilotage d'une formation universitaire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DucTrongVo/M2_Secu.git"
+  },
+  "author": "Trong VO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DucTrongVo/M2_Secu/issues"
+  },
+  "homepage": "https://github.com/DucTrongVo/M2_Secu#readme"
+}
